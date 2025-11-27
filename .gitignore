@@ -1,0 +1,21 @@
+# --- Maven (Arquivos de Build) ---
+dependency-reduced-pom.xml
+
+# --- Eclipse (Arquivos de IDE) ---
+.classpath
+.project
+.settings/
+bin/
+
+# --- NetBeans (Arquivos de IDE) ---
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
